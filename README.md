@@ -1,6 +1,6 @@
 # Rustler Logger
 
-[Documentation](https://docs.rs/rustler_logger/latest/rustler_logger/)
+[![CI](https://github.com/aggressive-labs/rustler_logger/actions/workflows/ci.yml/badge.svg)](https://github.com/aggressive-labs/rustler_logger/actions/workflows/ci.yml) [![crates.io](https://img.shields.io/crates/v/rustler_logger.svg)](https://crates.io/crates/rustler_logger) [![docs.rs](https://docs.rs/rustler_logger/badge.svg)](https://docs.rs/rustler_logger)
 
 `rustler` provides fairly seamless integration between Rust and Elixir.
 However, Rust NIFs aren't really integrated with Elixir's logging infrastructure.
